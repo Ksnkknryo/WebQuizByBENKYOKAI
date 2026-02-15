@@ -1,2 +1,0 @@
-# WebQuizByBENKYOKAI
-ウェブブラウザ上で一問一答を作れるようにしたもの
