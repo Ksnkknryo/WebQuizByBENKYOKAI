@@ -1,0 +1,80 @@
+{
+  "title": "日本史一問一答",
+  "explanation": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "chapters": [
+    {
+      "subtitle": "〇〇時代",
+      "questions": [
+        { "id": "1-1",
+          "question": "私の名前は何ですか？",
+          "answer": "～～～です"
+        },
+        {
+          "id": "1-2",
+          "question": "私の年齢は何ですか？",
+          "answer": "～～～です"
+        }
+      ]
+    },
+    {
+      "subtitle": "〇〇時代",
+      "questions": [
+        {
+          "id": "2-1",
+          "question": "私の名前は何ですか？",
+          "answer": "～～～です"
+        },
+        {
+          "id": "2-2",
+          "question": "私の年齢は何ですか？",
+          "answer": "～～～です"
+        }
+      ]
+    },
+    {
+      "subtitle": "〇〇時代",
+      "questions": [
+        {
+          "id": "3-1",
+          "question": "私の名前は何ですか？",
+          "answer": "～～～です"
+        },
+        {
+          "id": "3-2",
+          "question": "私の年齢は何ですか？",
+          "answer": "～～～です"
+        }
+      ]
+    },
+    {
+      "subtitle": "〇〇時代",
+      "questions": [
+        {
+          "id": "4-1",
+          "question": "私の名前は何ですか？",
+          "answer": "～～～です"
+        },
+        {
+          "id": "4-2",
+          "question": "私の年齢は何ですか？",
+          "answer": "～～～です"
+        }
+      ]
+    },
+    {
+      "subtitle": "〇〇時代",
+      "questions": [
+        {
+          "id": "5-1",
+          "question": "私の名前は何ですか？",
+          "answer": "～～～です"
+        },
+        {
+          "id": "5-2",
+          "question": "私の年齢は何ですか？",
+          "answer": "～～～です"
+        }
+      ]
+    }
+  ]
+}
